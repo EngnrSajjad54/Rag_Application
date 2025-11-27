@@ -1,0 +1,2 @@
+User: Please tell me the core skills of Sajjad Hussain. Sajjad Hussain is capable or not for Rag based solution
+AI: The core skills of Sajjad Hussain include prompt engineering, LLMOps, API development, RAG systems, conversational AI, and n8n-powered automations. He has hands-on experience integrating OpenAI, Claude, and Gemini models into real-world applications. Based on his skills and experience, Sajjad Hussain is capable of handling Rag based solutions effectively.
