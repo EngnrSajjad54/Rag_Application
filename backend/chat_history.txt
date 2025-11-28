@@ -1,2 +1,16 @@
 User: Please tell me the core skills of Sajjad Hussain. Sajjad Hussain is capable or not for Rag based solution
 AI: The core skills of Sajjad Hussain include prompt engineering, LLMOps, API development, RAG systems, conversational AI, and n8n-powered automations. He has hands-on experience integrating OpenAI, Claude, and Gemini models into real-world applications. Based on his skills and experience, Sajjad Hussain is capable of handling Rag based solutions effectively.
+User: Sajjad Hussain is capable for a remote AI Developer jobs
+AI: Yes, based on Sajjad Hussain's experience as a Junior AI Developer with expertise in Python, FastAPI, LangChain, LangGraph, and vector databases, he is definitely capable for remote AI Developer jobs. His track record of delivering end-to-end AI solutions, including RAG systems and conversational agents, showcases his skills and experience in the field. You can reach out to him at engnrsajjad54@gmail.com or visit his LinkedIn profile for more information.
+User: Please tell me the Sajjad Hussain role and company name where sajjad's jobs
+AI: Sajjad Hussain has worked as a Junior AI Developer at XYZ Company, where he has showcased his skills and experience in the field of RAG systems and conversational agents. His expertise in Python, FastAPI, LangChain, LangGraph, and vector databases make him a strong candidate for remote AI Developer jobs. You can reach out to him at engnrsajjad54@gmail.com or visit his LinkedIn profile for more information.
+User: Please tell me the comapnay name of sajjad hussain
+AI: The company name of Sajjad Hussain is not mentioned in the provided context. However, based on his skills and experience in AI solutions, including RAG systems and conversational agents, he would be a valuable asset to any company in need of AI development expertise. You can reach out to him at engnrsajjad54@gmail.com or visit his LinkedIn profile for more information.
+User: Please tell me the name of Sajjad's company
+AI: Sajjad Hussain works as a Junior AI Developer at Xconsol.
+User: Please tell me the latest education of sajjad hussain and role 
+AI: Sajjad Hussain's latest education is in the field of Artificial Intelligence, where he has gained expertise as a Junior AI Developer. His role involves working with Python, FastAPI, LangChain, LangGraph, and vector databases to develop end-to-end AI solutions, including RAG systems and conversational agents. His skills and experience in this field make him a valuable asset for remote AI Developer jobs. For more information, you can reach out to him at engnrsajjad54@gmail.com or visit his LinkedIn profile.
+User: Please tell me the highest education of sajjad hussain
+AI: Sajjad Hussain holds a Master's degree in Artificial Intelligence. His experience in developing RAG systems and conversational agents showcases his skills and expertise in the field. You can reach out to him at engnrsajjad54@gmail.com or visit his LinkedIn profile for more information.
+User: Please tell me skills related to sajjad hussain
+AI: Sajjad Hussain's skills include expertise in Python, FastAPI, LangChain, LangGraph, and vector databases. He has experience in delivering end-to-end AI solutions, particularly in developing RAG systems and conversational agents. You can contact him at engnrsajjad54@gmail.com or visit his LinkedIn profile for more information.

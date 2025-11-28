@@ -1,12 +1,12 @@
 from rag_query import rag_query
-from loader import load_pdf
+from loader import document_loader
 from spliter import split_documents
 from vector_store import save_to_chroma
 
 #  Initialize vector store
 def generate_vectorstore():
     print(" Loading PDF...")
-    documents = load_pdf()
+    documents = document_loader()
 
     print(" Splitting into chunks...")
     chunks = split_documents(documents)
